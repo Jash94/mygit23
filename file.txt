@@ -1,2 +1,3 @@
 My file for git
 Second line to check git status
+Third line added
