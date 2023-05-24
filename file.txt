@@ -1,4 +1,4 @@
 My file for git
-Second line to check git status
+Second line to check git stash
 Third line added
 Fourth line added
